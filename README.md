@@ -7,8 +7,9 @@ This repository holds key Julia code and the experimental data used to generate 
 Please contact Ryan Murphy for any queries or questions.
 
 Code developed and run in July 2022 using:
-Julia Version  1.7.2 (see https://julialang.org/downloads/ )
-Julia packages: Plots, LinearAlgebra, NLopt, .Threads, Interpolations, Distributions, Roots, LaTeXStrings
+
+- Julia Version  1.7.2 (see https://julialang.org/downloads/ )
+- Julia packages: Plots, LinearAlgebra, NLopt, .Threads, Interpolations, Distributions, Roots, LaTeXStrings
 
 ## Guide to using the code
 There are four scripts. Each script contains experimental data, estimates the MLE, estimates the change point and other model parameters, and parameter-wise profile predictions. Figures are generated showing: comparisons of the experimental with the mathematical model simulated with the MLE; profile likelihoods for the change point and other model parameters; parameter-wise profile predictions; and the difference between the parameter-wise profile predictions and the mathematical model simulated with the MLE.
