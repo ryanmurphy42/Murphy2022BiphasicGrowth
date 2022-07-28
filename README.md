@@ -2,7 +2,7 @@
 
 Preprint to appear soon and the link will be included here.
 
-This repository holds key Julia code and the experimental data used to generate figures in the manuscript.
+This repository holds key Julia code and all experimental data used to generate figures in the manuscript.
 
 Please contact Ryan Murphy for any queries or questions.
 
