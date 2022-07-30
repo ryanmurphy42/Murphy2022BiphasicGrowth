@@ -1,6 +1,6 @@
 # Murphy et al. (2022) Computationally efficient framework for diagnosing, understanding, and predicting biphasic population growth.
 
-Preprint to appear soon and the link will be included here.
+Preprint available on bioRxiv: https://doi.org/10.1101/2022.07.27.501797 
 
 This repository holds key Julia code and all experimental data used to generate figures in the manuscript.
 
